@@ -84,18 +84,17 @@ Inline literals
 This text is an example of ``inline literals``.
 
 ..
+  Construction
+  ------------
+  **Construction**
 
-Construction
-------------
-**Construction**
+  ::
 
-::
+    cos
 
-  cos
+  **Html Output**
 
-**Html Output**
+  ::
+    cos
 
-::
-  cos
-
-**Output**
+  **Output**
