@@ -25,3 +25,6 @@ reStructuredText
 ----------------
 Some information about reST and its constructions can be found :doc:`here </rst>`
 
+vim
+---
+Some useful :doc:`vim` commands
